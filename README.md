@@ -1,0 +1,3 @@
+## Sample
+
+Hugo hosting
